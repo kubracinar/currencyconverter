@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.conveter_container {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+.conveter_container input {
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+  border-radius: 5px;
+}
+select {
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
